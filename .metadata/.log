@@ -1,0 +1,235 @@
+!SESSION 2015-07-25 09:45:13.464 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2015-07-25 09:46:18.281
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-25 09:46:18.281
+!MESSAGE A conflict occurred for CTRL+F9:
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.activateTask,Activate Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@31d137a8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(RunSQLAction,Run SQL,
+		Run SQL,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e9d1025,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.genuitec.eclipse.core 1 0 2015-07-25 09:46:40.245
+!MESSAGE Unable to locate .myeclipse.properties file
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:49.738
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/html/html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:49.774
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/html/css_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:49.830
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/html/forms_lists_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:49.903
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/html/javascript_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:49.963
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/html/htmlform_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:50.025
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/jsp/struts_tiles_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:50.154
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/jsp/jsf_h_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:50.311
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/jsp/struts_html_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:50.435
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/jsp/jsf_f_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:50.606
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/jsp/struts_bean_snippets.xml
+
+!ENTRY com.genuitec.eclipse.wizards 1 0 2015-07-25 09:46:50.734
+!MESSAGE Installed snippet library: /usr/local/MyEclipse/configuration/org.eclipse.osgi/bundles/147/1/.cp/snippets/jsp/struts_logic_snippets.xml
+
+!ENTRY org.springsource.ide.eclipse.commons.frameworks.core 0 0 2015-07-25 09:46:53.680
+!MESSAGE Result of converting legacy STS 2.x workspace preferences to 3.x
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2015-07-25 09:46:53.680
+!MESSAGE Converted legacy STS plugin preferences
+!SUBENTRY 1 unknown 0 0 2015-07-25 09:46:53.680
+!MESSAGE OK
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2015-07-25 09:46:53.680
+!MESSAGE Converted legacy Roo plugin state locations
+!SUBENTRY 1 org.springsource.ide.eclipse.commons.frameworks.core 0 0 2015-07-25 09:46:53.680
+!MESSAGE Converted legacy STS plugin state locations
+
+!ENTRY org.eclipse.core.jobs 4 2 2015-07-25 09:47:49.404
+!MESSAGE An internal error occurred during: "Importing MyEclipse dependencies to Local Maven Repository".
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.m2e.core.MavenPlugin.getMaven(MavenPlugin.java:42)
+	at com.genuitec.eclipse.maven.core.RepositoryUtil.isDependencyInLocalRepo(RepositoryUtil.java:97)
+	at com.genuitec.eclipse.maven.core.RepositoryUtil.addDependency(RepositoryUtil.java:29)
+	at com.genuitec.eclipse.maven.core.LocalMavenRepositoryImportsJob.run(LocalMavenRepositoryImportsJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-07-25 09:47:53.134
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
+!SESSION 2015-07-25 09:53:52.882 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2015-07-25 09:54:17.207
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-25 09:54:17.207
+!MESSAGE A conflict occurred for CTRL+F9:
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.activateTask,Activate Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@778dc1dc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(RunSQLAction,Run SQL,
+		Run SQL,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7bb28fd5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-25 10:05:37.312
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface 2 0 2015-07-25 10:08:11.320
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-25 10:08:11.320
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4ac4ccd3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6f48b605,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2015-07-25 10:09:24.956
+!MESSAGE Unable to update index for central|http://repo.maven.apache.org/maven2
+!SESSION 2015-07-25 13:49:33.527 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2015-07-25 13:49:59.821
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-25 13:49:59.821
+!MESSAGE A conflict occurred for CTRL+F9:
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.activateTask,Activate Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2262c76c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(RunSQLAction,Run SQL,
+		Run SQL,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3129517,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-07-25 13:52:26.900
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface 2 0 2015-07-25 13:55:39.593
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-25 13:55:39.594
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7926d4e1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@64623dea,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-07-25 13:58:44.446
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob
+!SESSION 2015-07-26 11:25:48.111 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.jface 2 0 2015-07-26 11:26:15.969
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-07-26 11:26:15.969
+!MESSAGE A conflict occurred for CTRL+F9:
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(org.eclipse.mylyn.tasks.ui.command.activateTask,Activate Task,
+		,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1669bea3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F9,
+	ParameterizedCommand(Command(RunSQLAction,Run SQL,
+		Run SQL,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7862cad3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-07-26 11:30:46.296
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob

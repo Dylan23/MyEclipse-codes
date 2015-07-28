@@ -1,0 +1,365 @@
+2015-07-25 09:46:22,122 [main] INFO  c.g.e.m.h.c.ui.Html5AppCoreUIPlugin - Pluging started
+2015-07-25 09:46:29,456 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2015-07-25 09:46:29,624 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:52,219 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:53,623 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.8.0/icefaces-1.8.0.jar
+2015-07-25 09:46:53,832 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:54,839 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom
+2015-07-25 09:46:54,843 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.pom
+2015-07-25 09:46:55,071 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:55,431 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2015-07-25 09:46:55,605 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2015-07-25 09:46:55,814 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:56,181 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2015-07-25 09:46:56,365 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2015-07-25 09:46:56,593 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:56,952 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2015-07-25 09:46:57,125 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2015-07-25 09:46:57,421 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:57,787 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2015-07-25 09:46:57,963 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.4.1/maven-clean-plugin-2.4.1.jar
+2015-07-25 09:46:58,481 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:58,843 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+2015-07-25 09:46:58,845 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.pom
+2015-07-25 09:46:59,102 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:46:59,463 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2015-07-25 09:47:00,844 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.3.1/maven-install-plugin-2.3.1.jar
+2015-07-25 09:47:01,346 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:01,736 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+2015-07-25 09:47:01,737 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.6/maven-plugin-api-2.0.6.pom
+2015-07-25 09:47:01,930 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:02,294 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+2015-07-25 09:47:02,297 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven/2.0.6/maven-2.0.6.pom
+2015-07-25 09:47:02,501 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:03,868 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom
+2015-07-25 09:47:04,220 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/5/maven-parent-5.pom
+2015-07-25 09:47:04,426 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:04,788 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom
+2015-07-25 09:47:04,791 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/3/apache-3.pom
+2015-07-25 09:47:05,021 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:08,110 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+2015-07-25 09:47:08,111 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.0.6/maven-project-2.0.6.pom
+2015-07-25 09:47:08,335 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:08,721 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+2015-07-25 09:47:08,722 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.pom
+2015-07-25 09:47:08,944 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:09,302 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+2015-07-25 09:47:09,303 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.6/maven-model-2.0.6.pom
+2015-07-25 09:47:09,521 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:09,884 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+2015-07-25 09:47:09,885 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.1/plexus-utils-1.4.1.pom
+2015-07-25 09:47:10,080 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:10,617 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+2015-07-25 09:47:10,622 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.11/plexus-1.0.11.pom
+2015-07-25 09:47:10,830 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:11,820 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+2015-07-25 09:47:11,822 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-9-stable-1/plexus-container-default-1.0-alpha-9-stable-1.pom
+2015-07-25 09:47:12,014 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:12,372 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+2015-07-25 09:47:12,374 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-containers/1.0.3/plexus-containers-1.0.3.pom
+2015-07-25 09:47:12,567 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:12,933 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+2015-07-25 09:47:13,031 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.4/plexus-1.0.4.pom
+2015-07-25 09:47:13,252 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:13,612 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2015-07-25 09:47:13,613 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.pom
+2015-07-25 09:47:13,818 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:15,182 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+2015-07-25 09:47:15,183 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.0.4/plexus-utils-1.0.4.pom
+2015-07-25 09:47:15,385 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:15,751 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+2015-07-25 09:47:15,752 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
+2015-07-25 09:47:15,951 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:16,319 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+2015-07-25 09:47:16,321 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.6/maven-profile-2.0.6.pom
+2015-07-25 09:47:17,062 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:17,418 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+2015-07-25 09:47:17,419 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.0.6/maven-artifact-manager-2.0.6.pom
+2015-07-25 09:47:17,625 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:17,987 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+2015-07-25 09:47:17,988 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.0.6/maven-repository-metadata-2.0.6.pom
+2015-07-25 09:47:18,191 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:18,548 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+2015-07-25 09:47:18,549 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.6/maven-artifact-2.0.6.pom
+2015-07-25 09:47:18,756 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:19,113 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+2015-07-25 09:47:19,114 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.0.6/maven-plugin-registry-2.0.6.pom
+2015-07-25 09:47:19,329 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:19,694 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+2015-07-25 09:47:19,695 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.pom
+2015-07-25 09:47:19,893 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:20,248 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+2015-07-25 09:47:20,423 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.6/plexus-2.0.6.pom
+2015-07-25 09:47:20,634 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:20,995 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+2015-07-25 09:47:20,996 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.pom
+2015-07-25 09:47:21,195 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:21,559 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+2015-07-25 09:47:21,560 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.7/plexus-components-1.1.7.pom
+2015-07-25 09:47:21,761 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:22,747 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2015-07-25 09:47:22,749 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/1.0.8/plexus-1.0.8.pom
+2015-07-25 09:47:22,947 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:23,332 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+2015-07-25 09:47:23,333 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.0-alpha-8/plexus-container-default-1.0-alpha-8.pom
+2015-07-25 09:47:23,609 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:23,966 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2015-07-25 09:47:23,996 [New I/O client worker #36-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+2015-07-25 09:47:24,950 [New I/O client worker #36-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+2015-07-25 09:47:25,055 [New I/O client worker #36-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-digest/1.0/plexus-digest-1.0.jar
+2015-07-25 09:47:25,908 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.1/junit-3.8.1.jar
+2015-07-25 09:47:29,296 [New I/O client worker #36-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.5/plexus-utils-2.0.5.jar
+2015-07-25 09:47:30,370 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.8.0/ICEfaces/icefaces.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.8.0/icefaces-1.8.0.jar
+2015-07-25 09:47:30,721 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall9131398715245040473.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.8.0/icefaces-1.8.0.pom
+2015-07-25 09:47:30,747 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:31,589 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.2/icefaces-1.7.2.jar
+2015-07-25 09:47:31,613 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.2/ICEfaces/icefaces.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.7.2/icefaces-1.7.2.jar
+2015-07-25 09:47:32,089 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall826953971620201820.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.7.2/icefaces-1.7.2.pom
+2015-07-25 09:47:32,109 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:32,500 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.1/icefaces-1.7.1.jar
+2015-07-25 09:47:32,525 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.1/ICEfaces/icefaces.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.7.1/icefaces-1.7.1.jar
+2015-07-25 09:47:32,691 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall6914125908640120908.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.7.1/icefaces-1.7.1.pom
+2015-07-25 09:47:32,705 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:33,110 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.7.0/icefaces-1.7.0.jar
+2015-07-25 09:47:33,137 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.0/ICEfaces/icefaces.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.7.0/icefaces-1.7.0.jar
+2015-07-25 09:47:33,327 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall8188907665979990299.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.7.0/icefaces-1.7.0.pom
+2015-07-25 09:47:33,340 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:33,757 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.jar
+2015-07-25 09:47:33,782 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.6.2/ICEfaces/icefaces.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.jar
+2015-07-25 09:47:33,940 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall126463039996408370.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.6.2/icefaces-1.6.2.pom
+2015-07-25 09:47:33,954 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:34,779 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces/1.6.1/icefaces-1.6.1.jar
+2015-07-25 09:47:34,806 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.6.1/ICEfaces/icefaces.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.6.1/icefaces-1.6.1.jar
+2015-07-25 09:47:34,966 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall6570375500507261318.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces/1.6.1/icefaces-1.6.1.pom
+2015-07-25 09:47:34,978 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:35,390 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icepush/icepush/2.0.2/icepush-2.0.2.jar
+2015-07-25 09:47:35,418 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/org.icepush/icepush/2.0/icepush.jar to /home/helloworld/.m2/repository/org/icepush/icepush/2.0.2/icepush-2.0.2.jar
+2015-07-25 09:47:35,626 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall3049731737909627501.pom to /home/helloworld/.m2/repository/org/icepush/icepush/2.0.2/icepush-2.0.2.pom
+2015-07-25 09:47:35,638 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:35,996 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.8.0/icefaces-comps-1.8.0.jar
+2015-07-25 09:47:36,024 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.8.0/ICEfaces/icefaces-comps.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.8.0/icefaces-comps-1.8.0.jar
+2015-07-25 09:47:36,206 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall8104184700646406262.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.8.0/icefaces-comps-1.8.0.pom
+2015-07-25 09:47:36,219 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:37,571 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.7.2/icefaces-comps-1.7.2.jar
+2015-07-25 09:47:37,596 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.2/ICEfaces/icefaces-comps.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.7.2/icefaces-comps-1.7.2.jar
+2015-07-25 09:47:37,764 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall8932763336321347136.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.7.2/icefaces-comps-1.7.2.pom
+2015-07-25 09:47:37,779 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:38,135 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.7.1/icefaces-comps-1.7.1.jar
+2015-07-25 09:47:38,162 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.1/ICEfaces/icefaces-comps.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.7.1/icefaces-comps-1.7.1.jar
+2015-07-25 09:47:38,323 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall5657549258966970690.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.7.1/icefaces-comps-1.7.1.pom
+2015-07-25 09:47:38,336 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:38,698 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.7.0/icefaces-comps-1.7.0.jar
+2015-07-25 09:47:38,766 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.0/ICEfaces/icefaces-comps.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.7.0/icefaces-comps-1.7.0.jar
+2015-07-25 09:47:39,226 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall5453091358698297257.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.7.0/icefaces-comps-1.7.0.pom
+2015-07-25 09:47:39,239 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:40,595 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.6.2/icefaces-comps-1.6.2.jar
+2015-07-25 09:47:40,623 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.6.2/ICEfaces/icefaces-comps.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.6.2/icefaces-comps-1.6.2.jar
+2015-07-25 09:47:40,761 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall1945282684570138898.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.6.2/icefaces-comps-1.6.2.pom
+2015-07-25 09:47:40,773 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:42,129 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-comps/1.6.1/icefaces-comps-1.6.1.jar
+2015-07-25 09:47:42,156 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.6.1/ICEfaces/icefaces-comps.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.6.1/icefaces-comps-1.6.1.jar
+2015-07-25 09:47:42,309 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall4951893960365909655.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-comps/1.6.1/icefaces-comps-1.6.1.pom
+2015-07-25 09:47:42,325 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:42,683 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.8.0/icefaces-facelets-1.8.0.jar
+2015-07-25 09:47:42,711 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.8.0/ICEfaces-Facelets/icefaces-facelets.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.8.0/icefaces-facelets-1.8.0.jar
+2015-07-25 09:47:42,858 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall6926667154067183096.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.8.0/icefaces-facelets-1.8.0.pom
+2015-07-25 09:47:42,872 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:43,237 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.7.2/icefaces-facelets-1.7.2.jar
+2015-07-25 09:47:43,265 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.2/ICEfaces-Facelets/icefaces-facelets.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.7.2/icefaces-facelets-1.7.2.jar
+2015-07-25 09:47:43,405 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall22989476613735235.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.7.2/icefaces-facelets-1.7.2.pom
+2015-07-25 09:47:43,417 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:43,782 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.7.1/icefaces-facelets-1.7.1.jar
+2015-07-25 09:47:43,810 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.0/ICEfaces-Facelets/icefaces-facelets.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.7.1/icefaces-facelets-1.7.1.jar
+2015-07-25 09:47:43,951 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall2610787179720404838.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.7.1/icefaces-facelets-1.7.1.pom
+2015-07-25 09:47:43,965 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:44,325 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.7.0/icefaces-facelets-1.7.0.jar
+2015-07-25 09:47:44,347 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.7.0/ICEfaces-Facelets/icefaces-facelets.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.7.0/icefaces-facelets-1.7.0.jar
+2015-07-25 09:47:44,465 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall385424409437766553.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.7.0/icefaces-facelets-1.7.0.pom
+2015-07-25 09:47:44,482 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:45,297 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.6.2/icefaces-facelets-1.6.2.jar
+2015-07-25 09:47:45,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.6.2/ICEfaces-Facelets/icefaces-facelets.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.6.2/icefaces-facelets-1.6.2.jar
+2015-07-25 09:47:45,467 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall817721332048057150.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.6.2/icefaces-facelets-1.6.2.pom
+2015-07-25 09:47:45,479 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:46,845 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-facelets/1.6.1/icefaces-facelets-1.6.1.jar
+2015-07-25 09:47:46,865 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/1.6.1/ICEfaces-Facelets/icefaces-facelets.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.6.1/icefaces-facelets-1.6.1.jar
+2015-07-25 09:47:47,005 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall6543693660482167905.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-facelets/1.6.1/icefaces-facelets-1.6.1.pom
+2015-07-25 09:47:47,016 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:47,842 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/sourceforge/jexcelapi/jxl/2.6.8/jxl-2.6.8.jar
+2015-07-25 09:47:47,863 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/net.sourceforge.jexcelapi/jxl/2.6.8/jxl.jar to /home/helloworld/.m2/repository/net/sourceforge/jexcelapi/jxl/2.6.8/jxl-2.6.8.jar
+2015-07-25 09:47:48,355 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall6719560499684858140.pom to /home/helloworld/.m2/repository/net/sourceforge/jexcelapi/jxl/2.6.8/jxl-2.6.8.pom
+2015-07-25 09:47:48,364 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 09:47:48,723 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/icefaces/icefaces-mobi/1.3.0/icefaces-mobi-1.3.0.jar
+2015-07-25 09:47:49,286 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /usr/local/MyEclipse/plugins/com.genuitec.eclipse.icefaces_11.0.1.me201308151823/data/org.icefaces/icefaces-mobi/1.3/icefaces-mobi.jar to /home/helloworld/.m2/repository/org/icefaces/icefaces-mobi/1.3.0/icefaces-mobi-1.3.0.jar
+2015-07-25 09:47:49,398 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Installing /tmp/mvninstall3926702070188375342.pom to /home/helloworld/.m2/repository/org/icefaces/icefaces-mobi/1.3.0/icefaces-mobi-1.3.0.pom
+2015-07-25 09:54:18,195 [main] INFO  c.g.e.m.h.c.ui.Html5AppCoreUIPlugin - Pluging started
+2015-07-25 09:54:23,784 [Worker-0] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2015-07-25 09:54:23,898 [Worker-0] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 10:09:24,954 [Worker-0] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|http://repo.maven.apache.org/maven2
+java.io.IOException: Server returned status code 404: Not Found
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.checkError(AsyncFetcher.java:251) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.read(AsyncFetcher.java:259) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at java.io.PipedInputStream.read(PipedInputStream.java:378) ~[na:1.7.0_45]
+	at java.io.InputStream.read(InputStream.java:101) ~[na:1.7.0_45]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:188) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:174) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.FileUtils.copyStreamToFile(FileUtils.java:1143) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:700) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:844) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1237) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1192) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:707) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+java.io.IOException: Server returned status code 404: Not Found
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.onStatus(AsyncFetcher.java:281) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.fireStatus(SimpleAsyncHttpClient.java:828) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.onStatusReceived(SimpleAsyncHttpClient.java:779) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.updateStatusAndInterrupt(NettyAsyncHttpProvider.java:1587) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.messageReceived(NettyAsyncHttpProvider.java:1242) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.stream.ChunkedWriteHandler.handleUpstream(ChunkedWriteHandler.java:149) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpContentDecoder.messageReceived(HttpContentDecoder.java:104) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:302) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.unfoldAndFireMessageReceived(ReplayingDecoder.java:522) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.callDecode(ReplayingDecoder.java:506) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.messageReceived(ReplayingDecoder.java:443) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpClientCodec.handleUpstream(HttpClientCodec.java:77) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:274) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:261) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:349) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200) ~[na:na]
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108) ~[na:na]
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:44) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_45]
+	at java.lang.Thread.run(Thread.java:744) ~[na:1.7.0_45]
+2015-07-25 13:50:01,296 [main] INFO  c.g.e.m.h.c.ui.Html5AppCoreUIPlugin - Pluging started
+2015-07-25 13:50:08,719 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2015-07-25 13:50:09,369 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-25 13:57:04,643 [main] INFO  org.eclipse.jetty.server.Server - jetty-8.1.10.v20130312
+2015-07-25 13:57:04,710 [main] INFO  o.e.jetty.server.AbstractConnector - Started SelectChannelConnector@0.0.0.0:9090
+2015-07-25 13:57:04,770 [main] INFO  c.g.e.m.h.c.e.r.WebSimulatorProcess - Running PROCESS:/opt/google/chrome/google-chrome --allow-file-access-from-files --disable-web-security --no-default-browser-check --load-extension=/usr/local/MyEclipse/plugins/com.genuitec.eclipse.mobile.html5.core.emulator_11.5.0.201311260528/ripple/content/chrome.ext  --app=file:///usr/local/MyEclipse/plugins/com.genuitec.eclipse.mobile.html5.core.emulator_11.5.0.201311260528/ripple/content/index.html?url=ws://127.0.0.1:9090/websocket/786152cf06e3cbb95175df839d5577ad1a6901d2 --user-data-dir=/tmp/myeclipse_mobilewebsimulator_userdata
+2015-07-25 13:57:05,204 [Thread-37] INFO  c.g.e.m.h.c.e.r.WebSimulatorProcess - CHROME:[30312:30312:0725/135705:ERROR:sandbox_linux.cc(345)] InitializeSandbox() called with multiple threads in process gpu-process
+2015-07-25 13:58:45,487 [Worker-2] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|http://repo.maven.apache.org/maven2
+java.io.IOException: null
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.checkError(AsyncFetcher.java:251) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.read(AsyncFetcher.java:259) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at java.io.PipedInputStream.read(PipedInputStream.java:378) ~[na:1.7.0_45]
+	at java.io.InputStream.read(InputStream.java:101) ~[na:1.7.0_45]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:188) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:174) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.FileUtils.copyStreamToFile(FileUtils.java:1143) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:700) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:844) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1237) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1192) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:707) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+java.util.concurrent.CancellationException: null
+	at com.ning.http.client.providers.netty.NettyResponseFuture.cancel(NettyResponseFuture.java:154) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher.cancel(AsyncFetcher.java:92) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.checkCancelled(AsyncFetcher.java:274) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.onStatus(AsyncFetcher.java:279) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.fireStatus(SimpleAsyncHttpClient.java:828) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.onStatusReceived(SimpleAsyncHttpClient.java:779) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.updateStatusAndInterrupt(NettyAsyncHttpProvider.java:1587) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.messageReceived(NettyAsyncHttpProvider.java:1242) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.stream.ChunkedWriteHandler.handleUpstream(ChunkedWriteHandler.java:149) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpContentDecoder.messageReceived(HttpContentDecoder.java:104) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:302) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.unfoldAndFireMessageReceived(ReplayingDecoder.java:522) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.callDecode(ReplayingDecoder.java:506) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.messageReceived(ReplayingDecoder.java:443) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpClientCodec.handleUpstream(HttpClientCodec.java:77) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:274) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:261) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:349) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200) ~[na:na]
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108) ~[na:na]
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:44) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_45]
+	at java.lang.Thread.run(Thread.java:744) ~[na:1.7.0_45]
+2015-07-26 11:26:17,348 [main] INFO  c.g.e.m.h.c.ui.Html5AppCoreUIPlugin - Pluging started
+2015-07-26 11:26:24,692 [Worker-2] INFO  o.e.m.c.i.i.nexus.NexusIndexManager - Updating index for repository: central|http://repo.maven.apache.org/maven2
+2015-07-26 11:26:25,157 [Worker-2] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-07-26 11:30:46,560 [Worker-2] ERROR o.e.m.c.i.i.nexus.NexusIndexManager - Unable to update index for central|http://repo.maven.apache.org/maven2
+java.io.IOException: null
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.checkError(AsyncFetcher.java:251) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$PipedErrorInputStream.read(AsyncFetcher.java:259) ~[org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at java.io.PipedInputStream.read(PipedInputStream.java:378) ~[na:1.7.0_45]
+	at java.io.InputStream.read(InputStream.java:101) ~[na:1.7.0_45]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:188) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.IOUtil.copy(IOUtil.java:174) ~[plexus-utils-2.0.6.jar:na]
+	at org.codehaus.plexus.util.FileUtils.copyStreamToFile(FileUtils.java:1143) ~[plexus-utils-2.0.6.jar:na]
+	at org.apache.maven.index.updater.DefaultIndexUpdater$LocalCacheIndexAdaptor.setIndexFile(DefaultIndexUpdater.java:700) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:844) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.apache.maven.index.updater.DefaultIndexUpdater.fetchAndUpdateIndex(DefaultIndexUpdater.java:135) ~[indexer-core-3.1.0.jar:3.1.0]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateRemoteIndex(NexusIndexManager.java:1237) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager.updateIndex(NexusIndexManager.java:1192) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.NexusIndexManager$1.run(NexusIndexManager.java:707) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.m2e.core.internal.index.nexus.IndexUpdaterJob.run(IndexUpdaterJob.java:72) [org.eclipse.m2e.core_1.4.0.me201310171809.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) [org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+java.util.concurrent.CancellationException: null
+	at com.ning.http.client.providers.netty.NettyResponseFuture.cancel(NettyResponseFuture.java:154) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher.cancel(AsyncFetcher.java:92) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.checkCancelled(AsyncFetcher.java:274) ~[na:na]
+	at org.eclipse.m2e.core.internal.index.nexus.AsyncFetcher$MonitorListener.onStatus(AsyncFetcher.java:279) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.fireStatus(SimpleAsyncHttpClient.java:828) ~[na:na]
+	at com.ning.http.client.SimpleAsyncHttpClient$BodyConsumerAsyncHandler.onStatusReceived(SimpleAsyncHttpClient.java:779) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.updateStatusAndInterrupt(NettyAsyncHttpProvider.java:1587) ~[na:na]
+	at com.ning.http.client.providers.netty.NettyAsyncHttpProvider.messageReceived(NettyAsyncHttpProvider.java:1242) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.stream.ChunkedWriteHandler.handleUpstream(ChunkedWriteHandler.java:149) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpContentDecoder.messageReceived(HttpContentDecoder.java:104) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline$DefaultChannelHandlerContext.sendUpstream(DefaultChannelPipeline.java:783) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:302) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.unfoldAndFireMessageReceived(ReplayingDecoder.java:522) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.callDecode(ReplayingDecoder.java:506) ~[na:na]
+	at org.jboss.netty.handler.codec.replay.ReplayingDecoder.messageReceived(ReplayingDecoder.java:443) ~[na:na]
+	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:80) ~[na:na]
+	at org.jboss.netty.handler.codec.http.HttpClientCodec.handleUpstream(HttpClientCodec.java:77) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564) ~[na:na]
+	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:274) ~[na:na]
+	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:261) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:349) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.processSelectedKeys(NioWorker.java:280) ~[na:na]
+	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:200) ~[na:na]
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108) ~[na:na]
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:44) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145) ~[na:1.7.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615) ~[na:1.7.0_45]
+	at java.lang.Thread.run(Thread.java:744) ~[na:1.7.0_45]

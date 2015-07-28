@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1437803485104" defaultVMConnector\="">\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\n<vm id\="1437788810775" name\="com.sun.java.jdk7.linux.x86_64_1.7.0.u45" path\="/usr/local/MyEclipse/binary/com.sun.java.jdk7.linux.x86_64_1.7.0.u45"/>\n<vm id\="1437803485104" name\="jdk8" path\="/usr/local/java"/>\n</vmType>\n</vmSettings>\n
